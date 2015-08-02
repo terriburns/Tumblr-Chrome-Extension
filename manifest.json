@@ -1,0 +1,15 @@
+{
+"manifest_version": 2,
+
+  "name": "Tumblr-Chrome Extension",
+  "description": "Post to Tumblr from any web page",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "img/icon.jpg",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+  "activeTab"
+  ]
+}
