@@ -1,2 +1,2 @@
 # Tumblr-Chrome-Extension
-post to tumblr from any web page using this extension
+(when finished) post to tumblr from any web page using this extension
