@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
       d = document;
 
       var f = d.createElement('form');
-      f.action = 'https://www.tumblr.com/new/text';
+      f.action = 'http://tumblr.com';
       f.method = 'post';
       var i = d.createElement('input');
       i.type = 'hidden';

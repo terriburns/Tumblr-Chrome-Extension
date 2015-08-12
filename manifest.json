@@ -1,16 +1,24 @@
 {
-"manifest_version": 2,
-
+  "manifest_version": 2,
   "name": "Tumblr-Chrome Extension",
-  "description": "Post to Tumblr from any web page",
+  "description": "use this extension to easily post to tumblr without having to leave your current web page",
   "version": "1.0",
+  "icons": { "16": "icon16.png",
+    "128": "icon128.png" },
 
   "browser_action": {
     "default_icon": "img/icon.PNG",
     "default_popup": "index.html",
-    "default_title": "Post to Tumblr"
+    "default_title": "Click here"
   },
+  
   "permissions": [
-  "activeTab"
-  ]
+    "activeTab"
+  ],
+  "content_scripts": [
+    {"css": [
+      "styles.css"
+      ]
+      }
+      ]
 }
