@@ -7,7 +7,7 @@
     "128": "icon128.png" },
 
   "browser_action": {
-    "default_icon": "img/icon.PNG",
+    "default_icon": "img/icon128.png",
     "default_popup": "index.html",
     "default_title": "Click here"
   },
@@ -16,9 +16,13 @@
     "activeTab"
   ],
   "content_scripts": [
-    {"css": [
+  {
+    "matches": [
+      "*://*/*"
+      ],
+    "css": [
       "styles.css"
       ]
-      }
-      ]
+  }
+  ]
 }
