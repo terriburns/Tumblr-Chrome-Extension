@@ -3,8 +3,9 @@
   "name": "Tumblr-Chrome Extension",
   "description": "use this extension to easily post to tumblr without having to leave your current web page",
   "version": "1.0",
-  "icons": { "16": "icon16.png",
-    "128": "icon128.png" },
+  "icons": { "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png" },
 
   "browser_action": {
     "default_icon": "img/icon128.png",
