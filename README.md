@@ -2,7 +2,7 @@
 
 Post directly to Tumblr from any web page. Still a work in progress.
 
-To run (from the <a href="https://developer.chrome.com/extensions/getstarted">getting started</a> docs):
+To run (from Chrome's <a href="https://developer.chrome.com/extensions/getstarted">getting started</a> docs):
 
 1. Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox:  The menu's icon is three horizontal bars. and select Extensions under the Tools menu to get to the same place).
 
