@@ -1,26 +1,17 @@
 .btn-terri {
-  font-family: 'Amatic SC';
+  background: black;
   color: #ffffff;
+  font-family: 'Josefin Sans';
   font-size: 20px;
-  background: #35465c;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
 
 .btn-terri:hover {
-  background: black;
+  background: #35465c;
   text-decoration: none;
 }
 
 body {
  background-color:none;
 }
-
-
-/*h1 {
-  font-color:#35465c;
-  font-family: 'Amatic SC';
-  font-size:25px;
-  text-align:center;
-}*/
-
