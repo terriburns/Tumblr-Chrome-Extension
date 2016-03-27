@@ -1,6 +1,6 @@
 # Tumblr-Chrome-Extension
 
-Post directly to Tumblr from any web page. Still a work in progress.
+Post directly to Tumblr from any web page. (Still a work in progress.)
 
 To run (from Chrome's <a href="https://developer.chrome.com/extensions/getstarted">getting started</a> docs):
 
